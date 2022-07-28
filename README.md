@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prosper-20
-- It's a pleasure to finally be on this platorm. Here's a quick run-down of who i am, my name is Prosper. I'm a young tech-enthusiast who's really passionate
--  about Backend Development. I enjoy providing solutions to problems using my skill-sets.
+- It's a pleasure to finally be on this platorm. Here's a quick run-down of who i am, my name is Prosper. I'm a young tech-enthusiast who's really passionate about Backend Development. I enjoy providing solutions to problems using my skill-sets.
 - 🌱 I major in Python/Django development and have over 2 years of expeprience. I'm looking to collaborate on multiple projects (Both paid and un-paid).
 
 - 📫 My contact details:
